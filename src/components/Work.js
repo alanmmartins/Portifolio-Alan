@@ -32,7 +32,7 @@ const Work = () => {
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl lg:w-[400px] justify-center items-center'>
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <div>
-                <a href="https://master--ysc30082004.netlify.app/"
+                <a href="https://github.com/alanmmartins"
                   target="_blank"
                   rel="noopener noreferrer">
                   <img className='group-hover:scale-125 transition-all duration-500 md:w-80 lg:w-full' src={Img1} alt="" />
@@ -56,7 +56,7 @@ const Work = () => {
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl lg:w-[400px]'>
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <div>
-                <a href="https://cloneysc30082002.netlify.app/"
+                <a href="https://github.com/alanmmartins"
                   target="_blank"
                   rel="noopener noreferrer">
                   <img className='group-hover:scale-125 transition-all duration-500 md:w-80 lg:w-full' src={Img2} alt="" />
@@ -72,7 +72,7 @@ const Work = () => {
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl lg:w-[400px]'>
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <div>
-                <a href="https://cloneysc30082003.netlify.app/"
+                <a href="https://github.com/alanmmartins"
                   target="_blank"
                   rel="noopener noreferrer">
                   <img className='group-hover:scale-125 transition-all duration-500 md:w-80 lg:w-full' src={Img3} alt="" />
